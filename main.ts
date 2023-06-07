@@ -1,10 +1,4 @@
-/*
-Copyright (C): 2010-2019, Shenzhen Yahboom Tech
-modified from chengengyue
-*/
 
-
-//% color="#228B22" weight=25 icon="\uf0b2"
 namespace ModuleWorld_Digital {
 	
     export enum mwDigitalNum {
